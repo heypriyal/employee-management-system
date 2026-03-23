@@ -1,16 +1,20 @@
-# React + Vite
+Employee Management Systemm
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A role-based task management app built with React.js and Tailwind CSS. Admin can assign tasks, and employees can track their task status.
 
-Currently, two official plugins are available:
+Features:
+Role-based dashboards (Admin & Employee)
+Task assignment and tracking (New, Active, Completed, Failed)
+State management using React Hooks and Context API
+Data stored in LocalStorage
+Responsive UI with Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack:
+React.js, Tailwind CSS, JavaScript, LocalStorage in your project.
 
-## React Compiler
+Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Login](https://github.com/user-attachments/assets/85ba34b1-c8ef-42cf-bf9e-ef4df0d7484e)
+![Admin Dashboard](https://github.com/user-attachments/assets/c1cc0dd1-049a-4287-98f8-481b15e9bc53)
+![Employee Dashboard](https://github.com/user-attachments/assets/8f8a1eac-1917-41fd-9874-d4c70169bd62)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
