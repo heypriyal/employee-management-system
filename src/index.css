@@ -1,0 +1,13 @@
+@import "tailwindcss";
+*{
+    color: #fff;
+}
+body{
+    background: #000;
+}
+#TasklistCard::-webkit-scrollbar{
+    display: none;
+}
+#admin-alltask-scroll::-webkit-scrollbar{
+    display: none;
+}
