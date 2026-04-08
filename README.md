@@ -12,6 +12,20 @@ Responsive UI with Tailwind CSS
 Tech Stack:
 React.js, Tailwind CSS, JavaScript, LocalStorage in your project.
 
+[Live Demo](https://employee-management-system-livid-pi.vercel.app/)
+
+## Login Credentials
+
+### Employee Login
+- **Email/ID:** emp2@example.com  
+- **Password:** 1234
+- **Email/ID:** emp3@example.com  
+- **Password:** 1234 
+
+### Admin Login
+- **Email/ID:** admin@123  
+- **Password:** 1234  
+
 Screenshots
 
 ![Login](https://github.com/user-attachments/assets/85ba34b1-c8ef-42cf-bf9e-ef4df0d7484e)
